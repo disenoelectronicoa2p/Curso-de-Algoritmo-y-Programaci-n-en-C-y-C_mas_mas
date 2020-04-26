@@ -1,1 +1,1 @@
-# Curso-de-Algoritmo-y-Programaci-n-en-C-y-C_mas_mas
+# Curso de Algoritmo y Programación en C y C++
